@@ -104,9 +104,13 @@ Sep 2024 – Dec 2024
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakyaswarnika&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=swarnikashakya&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnikashakya&layout=compact&hide_border=true" height="170"/>
+
+</div>
 
 ## 📫 Connect With Me
 
