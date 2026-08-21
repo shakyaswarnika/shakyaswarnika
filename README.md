@@ -105,16 +105,6 @@ Sep 2024 – Dec 2024
 - English Certificate (C2 Proficient) — 72/100, EF SET — 2024
 - Effective Communications — 2023, Great Learning
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=swarnikashakya&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnikashakya&layout=compact&hide_border=true" height="170"/>
-
-</div>
-
 ## 📫 Connect With Me
 
 - LinkedIn: @swarnikashakya
