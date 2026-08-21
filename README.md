@@ -2,23 +2,11 @@
 
 Results-driven IT professional with a strong foundation in web development and a growing focus on technical project management. Skilled in coordinating cross-functional teams, managing project lifecycles, and implementing efficient digital solutions.
 
-<p align="center">
+<p align="left">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Swarnika+Shakya+%F0%9F%91%8B;Technology+Lead+%7C+Web+Developer;Project+Coordinator+%26+IT+Professional;WordPress+Expert+%7C+Building+with+AI"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=0A0A0A&vCenter=true&width=700&lines=Technology+Lead;Web+Developer;Project+Coordinator;IT+Professional"
+    alt="Technology Lead | Web Developer | Project Coordinator | IT Professional"
   />
-</p>
-
-<!-- Animated Introduction -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=55&lines=Web+Developer+%F0%9F%92%BB;Technology+Lead+%F0%9F%9A%80;Project+Coordinator+%F0%9F%93%8C;WordPress+Expert+%E2%9A%A1;Building+Ideas+Into+Digital+Experiences+%E2%9C%A8"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-  <i>Turning ideas into scalable, meaningful digital experiences.</i>
 </p>
 
 ## About Me
